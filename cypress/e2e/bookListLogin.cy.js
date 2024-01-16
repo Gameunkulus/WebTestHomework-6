@@ -30,14 +30,14 @@ const bookFirst = {
   author: 'Stiven King'
 }
 const bookSecond = {
-  title: 'Crime and Punishmen', 
-  description: 'From the beginning we are locked into the frenzied consciousness of Raskolnikov who, against his better instincts, is inexorably drawn to commit a brutal double murder.',
-  author: 'Fyodor Dostoyevsky'
+  title: 'Sherlock Holmes and Doctor Watson', 
+  description: 'The story of the beginning of one of the most famous detective team, which starts on the baker street.',
+  author: 'Artur Conan Doyle'
 }
 const bookThird = {
-  title: 'Mu-mu', 
-  description: 'Heartbroken Gerasim finds his only joy – a puppy, whom he calls Mumu.',
-  author: 'Ivan Turgenev'
+  title: 'The Wonderful Wizard of Oz', 
+  description: 'A Kansas farm girl named Dorothy ends up in the magical Land of Oz after she and her pet dog Toto are swept away from their home by a tornado. .',
+  author: 'Laiman Frank Baum'
 }
 
 describe('add book', () => {
